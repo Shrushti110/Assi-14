@@ -20,5 +20,5 @@ body {
 }
 
 .box:hover {
-    box-shadow: 0 6px 10px rgba(117, 231, 4, 0.958);
+    box-shadow: 0 6px 10px rgba(128, 255, 0, 0.958);
 }

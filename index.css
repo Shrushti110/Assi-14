@@ -9,8 +9,9 @@ body {
 }
 
 .box {
-    width: 90px;
-    height: 60px;
+    width: 120px;
+    height: 40px;
+    margin: 40px;
     font-size: 20px;
     padding: 50px 50px 50px 50px;
     background-color:darksalmon;
